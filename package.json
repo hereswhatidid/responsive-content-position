@@ -1,0 +1,37 @@
+{
+  "name": "responsive-content-position",
+  "version": "1.0.0",
+  "description": "Reposition HTML content based on CSS media queries",
+  "homepage": "http://hereswhatidid.com/responsive-content-position",
+  "author": {
+    "name": "Gabe Shackle",
+    "url": "http://hereswhatidid.com"
+  },
+  "keywords": [
+    "media query",
+    "media queries",
+    "reposition",
+    "reorder",
+    "enquire.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hereswhatidid/enquire.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hereswhatidid/enquire.js/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}

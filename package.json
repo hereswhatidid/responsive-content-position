@@ -16,10 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/hereswhatidid/enquire.js.git"
+    "url": "git://github.com/hereswhatidid/responsive-content-position.git"
   },
   "bugs": {
-    "url": "https://github.com/hereswhatidid/enquire.js/issues"
+    "url": "https://github.com/hereswhatidid/responsive-content-position/issues"
   },
   "licenses": [
     {
